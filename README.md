@@ -20,7 +20,7 @@ ask file questions ?
 4. What is your name?
     A: Tyrell, but people call me Ty
     A: southward
-    A:
+    A: name is Bogdan 
 
 5. Do you like reading books ?
     A:
