@@ -13,7 +13,7 @@ ask file questions ?
     A: Bo - chilly a bit
 
 3. How much programming experience do you have?
-    A:
+    A: Ty - none
     A:
     A:
 
