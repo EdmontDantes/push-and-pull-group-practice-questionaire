@@ -18,7 +18,7 @@ ask file questions ?
     A: Bo - some
 
 4. What is your name?
-    A:
+    A: Tyrell, but people call me Ty
     A:
     A:
 
