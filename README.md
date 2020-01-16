@@ -24,5 +24,5 @@ ask file questions ?
 
 5. Do you like reading books ?
     A: Yes, very much
-    A:
+    A: Yes
     A:
