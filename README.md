@@ -23,6 +23,6 @@ ask file questions ?
     A: name is Bogdan 
 
 5. Do you like reading books ?
-    A:
+    A: Yes, very much
     A:
     A:
