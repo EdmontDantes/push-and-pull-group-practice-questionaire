@@ -15,7 +15,7 @@ ask file questions ?
 3. How much programming experience do you have?
     A: Ty - none
     A: southward a little
-    A:
+    A: Bo - some
 
 4. What is your name?
     A:
