@@ -8,7 +8,7 @@ ask file questions ?
     A: from Bo - I can tell you my lifestory in this day but I am good
 
 2. Is it cold in the classroom too for you?
-    A:
+    A: Ty - No, I'm actually hot
     A:
     A:
 
